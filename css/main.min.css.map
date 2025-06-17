@@ -1,0 +1,19 @@
+{
+    "version": 3,
+    "mappings": "AKAA,AAAA,CAAC,CACD,CAAC,AAAA,OAAO,CACR,CAAC,AAAA,QAAQ,AAAA,CACL,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,UAAU,CACzB,AAED,AAAA,IAAI,AAAA,CACA,MAAM,CAAE,IAAI,CACZ,UAAU,CAAE,KAAK,CACjB,eAAe,CAAE,MAAM,CAC1B,AAED,AAAA,EAAE,CAAC,EAAE,AAAA,CACD,UAAU,CAAE,IAAI,CAEnB,AAED,AAAA,CAAC,AAAA,CACA,OAAO,CAAE,YAAY,CACrB,eAAe,CAAE,IAAI,CACrB,AACD,AAAA,GAAG,AAAA,CACC,OAAO,CAAE,IAAI,CACb,UAAU,CAAE,KAAK,CACpB,AACD,AAAA,IAAI,AAAA,CACA,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACtB,MAAM,CAAE,IAAI,CACf,AACD,AAAA,UAAU,AAAA,CACN,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,MAAM,CACjB,WAAW,CAAE,IAAI,CACjB,YAAY,CAAE,IAAI,CAClB,YAAY,CAAE,IAAI,CAClB,aAAa,CAAE,IAAI,CACtB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/vendors/normalize.scss",
+        "../scss/abstract/_mixins.scss",
+        "../scss/abstract/_functions.scss",
+        "../scss/abstract/_veriables.scss",
+        "../scss/base/_resets.scss",
+        "../scss/base/_typography.scss",
+        "../scss/components/_buttons.scss",
+        "../scss/layouts/_header.scss",
+        "../scss/layouts/_footer.scss",
+        "../scss/pages/home.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
